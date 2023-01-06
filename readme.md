@@ -3,10 +3,10 @@ replit中创建bash语言
 在console里粘贴
 
 ```
-git clone 
+git clone https://github.com/Sayafx/ZeroBotOnReplit.git
 ```
 
-
+回车
 
 在console里输入
 
