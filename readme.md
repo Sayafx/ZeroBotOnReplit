@@ -16,7 +16,7 @@ sh install.sh
 
 回车等待输出完毕
 
-修改`main.sh`，`./gocqzbp bot的名字 主人qq号
+修改`main.sh`，`./gocqzbp` bot的名字 主人qq号
 
 ```
 chmod +x ./gocqzbp
