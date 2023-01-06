@@ -3,7 +3,7 @@ replit中创建bash语言
 在console里粘贴
 
 ```
-git clone https://github.com/Sayafx/ZeroBotOnReplit.git
+git clone https://github.com/Sayafx/ZeroBotOnReplit.git && mv -b ZeroBotOnReplit/* ./ && mv -b ZeroBotOnReplit/.[^.]* ./ && rm -rf *~ && rm -rf ZeroBotOnReplit
 ```
 
 回车
