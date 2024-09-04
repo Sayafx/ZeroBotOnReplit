@@ -1,3 +1,5 @@
+# 由于 2024年1月1日 replit 更改政策，此方案已过时。
+
 replit中创建bash语言
 
 在console里粘贴
